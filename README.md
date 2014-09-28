@@ -37,6 +37,8 @@ Install
 3.  Install zeolibrary by following this [guide](http://www.learningprocessing.com/tutorials/libraries/) 
 4.  Open Processing and open some of the zeolibrary examples via File>Examples>Contributed Libaries>Zeolibary 
 
+LINUX fix, and for other case-dependency issues: Rename the directory inside the 'libraries' directory to 'zeoLibrary', and the .jar file inside zeoLibrary/library to 'zeoLibrary.jar'. 
+
 
 Examples
 ========
